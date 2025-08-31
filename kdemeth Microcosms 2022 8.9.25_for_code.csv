@@ -1,0 +1,19 @@
+Sample ID,Treatment,198MeHg.ng.g
+BZ.Insta.A,Time0,0.85656
+BZ.Insta.B,Time0,1.30467
+BZ.Insta.C,Time0,1.14504
+BZ.Insta.D,Time0,0.97288
+BZ.Insta.E,Time0,1.02165
+BZ.48.A,Control,0.51925
+BZ.48.B,Control,0.55405
+BZ.48.C,Control,0.46317
+BZ.48.D,Control,0.50962
+BZ.48.E,Control,0.82833
+BZ.N1.A,High Nitrate,0.90988
+BZ.N1.B,High Nitrate,0.88000
+BZ.N1.C,High Nitrate,0.70282
+BZ.N1.D,High Nitrate,0.77670
+BZ.N1.E,High Nitrate,0.82127
+BZ.N2.A,Low Nitrate,0.82753
+BZ.N2.B,Low Nitrate,0.78165
+BZ.N2.C,Low Nitrate,0.76409

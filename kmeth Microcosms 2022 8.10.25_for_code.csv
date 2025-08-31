@@ -1,0 +1,14 @@
+Sample ID,Treatment,kmeth,percent.per.day
+BZ 48.A,Control,0.04015,4.015
+BZ.48.B,Control,0.04067,4.067
+BZ.48.C,Control,0.03303,3.303
+BZ.48.D,Control,0.02246,2.246
+BZ.48.E,Control,0.06764,6.764
+BZ.N1.A,High Nitrate,0.03276,3.276
+BZ.N1.B,High Nitrate,0.03233,3.233
+BZ.N1.C,High Nitrate,0.02492,2.492
+BZ.N1.D,High Nitrate,0.02724,2.724
+BZ.N1.E,High Nitrate,0.03129,3.129
+BZ.N2.A,Low Nitrate,0.03667,3.667
+BZ.N2.B,Low Nitrate,0.04264,4.264
+BZ.N2.C,Low Nitrate,0.03093,3.093
